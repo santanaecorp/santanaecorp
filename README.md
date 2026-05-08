@@ -41,5 +41,3 @@ React • Vite • Firebase
 ## ⚡ Fun Fact
 
 I enjoy combining software engineering, AI and automation to transform ideas into real products.
-
-I enjoy combining software engineering, AI and automation to transform ideas into real products.
